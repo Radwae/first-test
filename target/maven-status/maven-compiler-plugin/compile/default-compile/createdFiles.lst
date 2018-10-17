@@ -1,0 +1,9 @@
+com\carrefourFedelity\jms\SpringJmsProducer$1.class
+com\carrefourFedelity\entities\Response.class
+com\carrefourFedelity\jms\ApplicationJms.class
+com\carrefourFedelity\jms\SpringJmsProducer.class
+com\carrefourFedelity\entities\Card.class
+com\carrefourFedelity\services\CardService.class
+com\carrefourFedelity\entities\Account.class
+com\carrefourFedelity\jms\JMStestInterface.class
+com\carrefourFedelity\jms\SpringJmsConsumer.class
